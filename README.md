@@ -1,7 +1,7 @@
 ### BankCustomersSegmentation
 In this project, you have been hired as a data scientist at a bank and you have been provided with data of 2000 bank's customers.
 The bank marketing team would like to leverage AI/ML to launch a targeted marketing ad campaign that is tailored to specific group of customers.
-In order for this campaign to be successful , the bank wants to segment its customers into at least 4 distinctive groups by picking appropriate attributes. This porcess is known as "maketing segmentation" and it is crucial for maximizing marketing campaign conversion rate.
+In order for this campaign to be successful , the bank wants to segment its customers into at least 4 distinctive groups by picking appropriate attributes. This process is known as "maketing segmentation" and it is crucial for maximizing marketing campaign conversion rate.
 
 ### Attributes Information:
 Person_ID: Unique number.
